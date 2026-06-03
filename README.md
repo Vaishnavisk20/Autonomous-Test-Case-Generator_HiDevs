@@ -1,1 +1,9 @@
-# Autonomous-Test-Case-Generator_HiDevs
+# Autonomous Test Case Generator
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
